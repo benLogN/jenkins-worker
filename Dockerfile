@@ -1,6 +1,6 @@
 FROM centos:7
 
-ARG remoting_version=2.52
+ARG remoting_version=2.9
 ARG jenkins_dir=/usr/local/jenkins
 ARG jenkins_user=jenkins
 ARG jenkins_uid=219
